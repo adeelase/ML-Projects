@@ -1,2 +1,6 @@
 # ML-Projects
 This repository contains Machine Learning Projects that I created for completion of the Machine Learning Coursework During my 1st semester of Masters in CSE at IIT. It consists of two parts ,one part is on a Classification Problem while the Second one is on Regression.
+
+#Classification Problem
+
+The classification problem is centered around credit card information, attainable from the following link: 'https://archive.ics.uci.edu/dataset/27/credit+approval'. After procuring the dataset and converting it into a .csv format, I undertook a series of data preprocessing steps, encompassing data cleaning (eliminating unwanted values and null entries), the application of PCA (Principal Component Analysis) to curtail data dimensionality, and outlier detection, among others. Subsequently, a spectrum of machine learning techniques including Random Forest Classifier, KNN Classifier, Decision Tree Classifiers, Neural Networks, and Support Vector Machines were employed to formulate a predictive ML model for one attribute based on others. The resultant outcomes were rigorously evaluated using a gamut of classification performance metrics, spanning Confusion Matrix, accuracy score, precision, recall, F1 score, and more.
